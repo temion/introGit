@@ -2,7 +2,7 @@ import java.awt.event.*;
 
 import javax.swing.*;
 
-//Créé par Thibaut Emion
+//Créé par Thibaut Emion et Florian Boulant
 
 public class IntroGit extends JFrame implements ActionListener {
 
