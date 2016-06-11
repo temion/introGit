@@ -9,3 +9,4 @@ Après avoir bossé sur un fichier (Modification importante/conséquente effectuée 
 	=> Enfin, pull
 	=> Voilà !
 Si vous avez une quelconque demande au niveau des termes techniques, demandez à Thibaut, le chef de projet
+En fait c'est un bolosse mais voilà <3
