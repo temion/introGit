@@ -2,6 +2,8 @@ import java.awt.event.*;
 
 import javax.swing.*;
 
+//Créé par Thibaut Emion
+
 public class IntroGit extends JFrame implements ActionListener {
 
 	JButton b;
