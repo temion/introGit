@@ -23,6 +23,10 @@ public class IntroGit extends JFrame implements ActionListener {
 		setVisible(true);
 	}
 
+	/**
+	 * Gère les événements de ouf.
+	 * @param e le composant qui déclenche l'événement
+	 */
 	public void actionPerformed(ActionEvent e) {
 		if (e.getSource() == b) {
 			JOptionPane.showMessageDialog(this, "Gandalf.", "Gandalf", JOptionPane.NO_OPTION);
