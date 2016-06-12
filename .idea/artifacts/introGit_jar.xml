@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="introGit:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/introGit_jar</output-path>
+    <root id="archive" name="introGit.jar">
+      <element id="module-output" name="introGit" />
+    </root>
+  </artifact>
+</component>
