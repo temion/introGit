@@ -4,38 +4,47 @@ import javax.swing.*;
 
 //Créé par Thibaut Emion, Florian Boulant, Clémence Edouard et Thomas Di Gregorio
 
-public class IntroGit extends JFrame implements ActionListener {
+public class IntroGit extends JFrame implements ActionListener
+{
 
 	JButton b;
 
-	public IntroGit() {
-		setTitle("Fenêtre du swag");
-		setSize(100, 100);
-		setLocationRelativeTo(null);
 
-		b = new JButton("Quitter");
-		b.addActionListener(this);
+	public IntroGit()
+	{
+		setTitle( "Fenêtre du swag" );
+		setSize( 100, 100 );
+		setLocationRelativeTo( null );
 
-		add(b);
+		b = new JButton( "Quitter" );
+		b.addActionListener( this );
 
-		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		add( b );
 
-		setVisible(true);
+		setDefaultCloseOperation( JFrame.EXIT_ON_CLOSE );
+
+		setVisible( true );
 	}
+
+
+	public static void main( String[] args )
+	{
+		new IntroGit();
+	}
+
 
 	/**
 	 * Gère les événements de ouf.
+	 *
 	 * @param e le composant qui déclenche l'événement
 	 */
-	public void actionPerformed(ActionEvent e) {
-		if (e.getSource() == b) {
-			JOptionPane.showMessageDialog(this, "Gandalf.", "Gandalf", JOptionPane.NO_OPTION);
-			System.exit(0);
+	public void actionPerformed( ActionEvent e )
+	{
+		if ( e.getSource() == b )
+		{
+			JOptionPane.showMessageDialog( this, "Gandalf.", "Gandalf", JOptionPane.NO_OPTION );
+			System.exit( 0 );
 		}
 	}
 
-	public static void main(String[] args) {
-		new IntroGit();
-	}
-	
 }
