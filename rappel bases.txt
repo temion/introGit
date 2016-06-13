@@ -1,15 +1,15 @@
-﻿Avant de bosser sur un fichier => Penser � pull
-Apr�s avoir boss� sur un fichier (Modification importante/cons�quente effectu�e ou tout simplement fini de bosser)
-	=> Penser � pull, toujours
-	=> Cliquer sur le cercle vide dans la fen�tre des modifications
-	=> Cliquer sur "Stage all changes" dans la fen�tre qui appara�t
-	=> Dans la section tout en bas "Commit Message", indiquer en "Summary" un court r�sum� des modifications effectu�es
-	=> Si besoin de plus de pr�cisions, en ajouter dans "Description"
+﻿Avant de bosser sur un fichier => Penser à pull
+Après avoir bossé sur un fichier (Modification importante/conséquente effectuée ou tout simplement fini de bosser)
+	=> Penser à pull, toujours
+	=> Cliquer sur le cercle vide dans la fenêtre des modifications
+	=> Cliquer sur "Stage all changes" dans la fenêtre qui apparaît
+	=> Dans la section tout en bas "Commit Message", indiquer en "Summary" un court résumé des modifications effectuées
+	=> Si besoin de plus de précisions, en ajouter dans "Description"
 	=> Cliquer sur commit
 	=> Enfin, pull
-	=> Voil� !
-Si vous avez une quelconque demande au niveau des termes techniques, demandez � Thibaut, le chef de projet
-En fait c'est un bolosse mais voil� <3
+	=> Voilà !
+Si vous avez une quelconque demande au niveau des termes techniques, demandez à Thibaut, le chef de projet
+En fait c'est un bolosse mais voilà <3
 
 Petit test du lien slack
 
