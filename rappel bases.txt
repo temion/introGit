@@ -1,4 +1,4 @@
-Avant de bosser sur un fichier => Penser � pull
+﻿Avant de bosser sur un fichier => Penser � pull
 Apr�s avoir boss� sur un fichier (Modification importante/cons�quente effectu�e ou tout simplement fini de bosser)
 	=> Penser � pull, toujours
 	=> Cliquer sur le cercle vide dans la fen�tre des modifications
@@ -16,3 +16,5 @@ Petit test du lien slack
 Nickel ;)
 
 Ça fonctionne bien
+
+Wololololololo
